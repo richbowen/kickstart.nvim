@@ -436,6 +436,9 @@ require('lazy').setup({
       end, { desc = '[S]earch [N]eovim files' })
     end,
   },
+  {
+    'github/copilot.vim',
+  },
 
   -- LSP Plugins
   {
